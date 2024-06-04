@@ -12,9 +12,3 @@ for Effort in range(3):
              
 else :
     print("you lost! ")
-    
-   
-
-
-
-    
